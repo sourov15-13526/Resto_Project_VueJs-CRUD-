@@ -1,0 +1,108 @@
+{
+  "user": [
+    {
+      "name": "Aman Ullah",
+      "email": "aman@test",
+      "password": "amand@324503",
+      "id": 1
+    },
+    {
+      "name": "Aiyub",
+      "email": "aiyub@gmail.com",
+      "password": "aiyub@324503",
+      "id": 2
+    },
+    {
+      "name": "yeamin",
+      "email": "yeamin@gmail.com",
+      "password": "aiyub@324503",
+      "id": 3
+    },
+    {
+      "name": "tanmoy",
+      "email": "tanmoy@gmail.com",
+      "password": "4379dfuidshf",
+      "id": 4
+    },
+    {
+      "name": "tanmoy",
+      "email": "tanmoy@gmail.com",
+      "password": "4379dfuidshf",
+      "id": 5
+    },
+    {
+      "name": "Araf",
+      "email": "araf@gmail.com",
+      "password": "7958hfidh",
+      "id": 7
+    },
+    {
+      "name": "Riyad",
+      "email": "riyad@gmail.com",
+      "password": "79dkf3hfidh",
+      "id": 8
+    },
+    {
+      "name": "salman",
+      "email": "salman@gmail.com",
+      "password": "24329idjfd",
+      "id": 9
+    },
+    {
+      "name": "shamim",
+      "email": "shamim@gmail.com",
+      "password": "393hfiudh",
+      "id": 10
+    },
+    {
+      "name": "Rakib",
+      "email": "rakib@gmail.com",
+      "password": "4757iuefid",
+      "id": 11
+    },
+    {
+      "name": "siam",
+      "email": "siam@gmail.com",
+      "password": "63863duyfid",
+      "id": 12
+    },
+    {
+      "name": "Bijoy",
+      "email": "bijoy@gmail.com",
+      "password": "68fiudh7",
+      "id": 13
+    },
+    {
+      "name": "Rifat",
+      "email": "rifat@gmail.com",
+      "password": "r89eu9fh",
+      "id": 14
+    },
+    {
+      "name": "yeamin",
+      "email": "yeamin@gmail.com",
+      "password": "aiyub@324503",
+      "id": 16
+    },
+    {
+      "name": "Sujon",
+      "email": "sujon@gmail.com",
+      "password": "12345",
+      "id": 17
+    },
+    {
+      "name": "Nayan",
+      "email": "nayan@gmail.com",
+      "password": "889345dfodshf",
+      "id": 18
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger King",
+      "address": "Noida ",
+      "contact": 1972823,
+      "id": 1
+    }
+  ]
+}
